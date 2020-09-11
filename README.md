@@ -1,2 +1,2 @@
 # GuiadePerguntas
-Aplicação com o intuito de desenvolver meus conhecimentos em nodeJS
+Aplicação com o intuito de melhorar meus conhecimentos em nodeJS
